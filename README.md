@@ -1,0 +1,2 @@
+# staticcomponents
+File static components
